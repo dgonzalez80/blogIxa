@@ -12,3 +12,6 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ![](img/IxaColombiaLogo.png)
 
+![](img/EM5.png)
+![](img/LM5.png)
+![](img/DG5.png)
