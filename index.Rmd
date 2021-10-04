@@ -4,4 +4,4 @@ site: distill::distill_website
 listing: posts
 ---
 
-# **IXA COLOMBIA**
+![](img/IxaColombiaLogo.png)

@@ -1,13 +1,12 @@
 ---
-title: "Welcome to blogixa Colombia"
+title: "Bienvenidos a  blogixa Colombia"
 description: |
-  Welcome to our new blog, blogixa Colombia. We hope you enjoy 
-  reading what we have to say!
+  Ixa Colombia - información, análisis y acción !
 author:
-  - name: Nora Jones 
-    url: https://example.com/norajones
-    affiliation: Spacely Sprockets
-    affiliation_url: https://example.com/spacelysprokets
+  - name: dgonzalez80 
+    url: https://www.linkedin.com/in/daniel-enrique-gonz%C3%A1lez-g%C3%B3mez-74794384/?originalSubdomain=co
+    affiliation: Edgar Muñoz 
+    affiliation_url: https://www.linkedin.com/in/munozedg/?locale=es_ES
 date: 10-03-2021
 output:
   distill::distill_article:

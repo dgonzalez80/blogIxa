@@ -5,14 +5,14 @@
       "title": "Sobre este blog",
       "author": [],
       "contents": "\ntitle: “Sobre este blog” description: |\nEn este blog pretende recopilar una serie de procedimientos en R, su código y algunos resumenes útilies en el analisis de datos\n\n\n\n",
-      "last_modified": "2021-10-03T21:41:06-05:00"
+      "last_modified": "2021-10-03T22:16:38-05:00"
     },
     {
       "path": "index.html",
       "title": "blogixa Colombia",
       "author": [],
-      "contents": "\nIXA COLOMBIA\n\n\n\n",
-      "last_modified": "2021-10-03T21:41:07-05:00"
+      "contents": "\n\n\n\n\n",
+      "last_modified": "2021-10-03T22:16:39-05:00"
     }
   ],
   "collections": ["posts/posts.json"]
