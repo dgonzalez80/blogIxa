@@ -1,5 +1,5 @@
 ---
-title: "Ixa Colombia "
+title: "Ixa Colombia"
 output:
   distill::distill_article:
     css: styles.css
@@ -10,7 +10,8 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-![](img/IxaColombiaLogo.png)
+# **Equipo**
+
 
 ![](img/EM5.png)
 ![](img/LM5.png)
