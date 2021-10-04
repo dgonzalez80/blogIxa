@@ -1,0 +1,11 @@
+---
+title: "Sobre este blog"
+description: |
+  
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+En este blog pretende recopilar una serie de procedimientos en R, su código y algunos resumenes útilies en el analisis de datos
