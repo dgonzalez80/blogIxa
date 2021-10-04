@@ -1,5 +1,5 @@
 ---
-title: "Bienvenidos a  blogixa Colombia"
+title: "Bienvenidos a  blog-Ixa Colombia"
 description: |
   Ixa Colombia - información, análisis y acción !
 author:

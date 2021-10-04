@@ -1,6 +1,6 @@
 ---
 title: "Sobre este blog"
-description: |
+description: Los escritos y aportes compartidos en este blog son caracter académico y por lo tanto no pretenden un nivel cientifico si no de iniciación en el uso del lenguaje R para personas que inician su aprendizaje
   
 ---
 
@@ -8,4 +8,4 @@ description: |
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-En este blog pretende recopilar una serie de procedimientos en R, su código y algunos resumenes útilies en el analisis de datos
+En este blog pretende recopilar una serie de procedimientos en R, su código y algunos resúmenes útiles en el análisis de datos

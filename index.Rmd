@@ -1,5 +1,5 @@
 ---
-title: "blogixa Colombia"
+title: "blog-Ixa Colombia"
 site: distill::distill_website
 listing: posts
 ---
