@@ -1,4 +1,24 @@
+
+/* Color y fuente encabezado */
 .distill-site-nav{
   color: 	#FFFFFF;
   background-color: #0070C0;
+   font-size: 15px;
+  font-weight: 900;
+}
+
+/* Color fondo de pagina */
+body {
+  background-color: #FEF9E7;
+}
+
+/* Color desplazamiento de barra */
+.distill-site-nav a:hover {
+  color: #383838;
+}
+
+/* Change appearance of headers */
+h1, h2, h3, h4, h5 {
+  font-family: 'Fira Mono', sans-serif;
+  color:  #D35400 ;
 }

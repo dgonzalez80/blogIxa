@@ -2,17 +2,17 @@
   "articles": [
     {
       "path": "about.html",
-      "title": "Ixa Colombia",
+      "title": "ixa Colombia",
       "author": [],
       "contents": "\nEquipo\n\n\n\n\n",
-      "last_modified": "2021-10-04T00:25:54-05:00"
+      "last_modified": "2021-10-04T17:25:39-05:00"
     },
     {
       "path": "index.html",
       "title": " ",
       "author": [],
       "contents": "\n\n\n\n\n",
-      "last_modified": "2021-10-04T00:25:55-05:00"
+      "last_modified": "2021-10-04T17:25:39-05:00"
     }
   ],
   "collections": ["posts/posts.json"]

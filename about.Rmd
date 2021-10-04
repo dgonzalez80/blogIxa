@@ -1,5 +1,5 @@
 ---
-title: "Ixa Colombia"
+title: "ixa Colombia"
 output:
   distill::distill_article:
     css: styles.css

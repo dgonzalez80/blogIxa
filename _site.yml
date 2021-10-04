@@ -1,11 +1,12 @@
 name: "BLOGIXA"
-title: "blogixa Colombia"
+title: "Blog Ixa Colombia"
 description: |
-  blogixa Colombia
+  blog ixa Colombia
 output_dir: "_site"
 navbar:
   right:
     - text: "Home"
+    - icon: fa fa-rss
       href: index.html
     - text: "About"
       href: about.html
