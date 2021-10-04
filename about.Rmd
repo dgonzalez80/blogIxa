@@ -1,6 +1,8 @@
 ---
-title: "Sobre este blog"
-description: Los escritos y aportes compartidos en este blog son caracter académico y por lo tanto no pretenden un nivel cientifico si no de iniciación en el uso del lenguaje R para personas que inician su aprendizaje
+title: "Ixa Colombia "
+output:
+  distill::distill_article:
+    css: styles.css
   
 ---
 
@@ -8,4 +10,5 @@ description: Los escritos y aportes compartidos en este blog son caracter acadé
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-En este blog pretende recopilar una serie de procedimientos en R, su código y algunos resúmenes útiles en el análisis de datos
+![](img/IxaColombiaLogo.png)
+

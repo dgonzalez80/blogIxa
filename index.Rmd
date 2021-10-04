@@ -1,7 +1,10 @@
 ---
-title: "blog-Ixa Colombia"
+title: " "
 site: distill::distill_website
 listing: posts
+output:
+  distill::distill_article:
+    css: styles.css
 ---
 
 ![](img/IxaColombiaLogo.png)
